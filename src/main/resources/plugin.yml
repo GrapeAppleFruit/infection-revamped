@@ -1,0 +1,13 @@
+name: InfiniteInfection
+version: '${project.version}'
+main: grapeapplefruit.main.Main
+api-version: 1.18
+commands:
+  infhelp:
+    description: Get plugin help.
+  join:
+    description: Join the game.
+  status:
+    description: Get the game's status.
+  basic:
+    description: Get the basic command.
